@@ -1,28 +1,28 @@
 ---
 title: Example Talk
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Canadian Sex Research Forum 2021
+event_url: http://www.canadiansexresearchforum.com/registration
 
-location: Wowchemy HQ
+location: Virtual
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street:
+  city: 
+  region: 
+  postcode: 
+  country: 
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: A data blitz on how perceptions of a date's attachment style during a speed-dating event can influence dating interest.
+abstract: "Attachment anxiety and avoidance—the extent to which a person desires closeness or values independence in relationships—are robust predictors of romantic relationship quality and sexual satisfaction. Past research has found that people can accurately detect an acquaintance’s attachment style after a brief interaction, and detect attachment style from photographs. However, less is known about attachment perceptions in dating contexts. Can people accurately perceive a potential dating partner’s attachment during an initial encounter and does this influence their romantic and sexual interest? In a pre-registered analysis of 189 speed-daters, we found that people accurately perceived their date’s attachment anxiety, but not their attachment avoidance. After accounting for dates’ self-reported attachment style, perceptions of a date’s attachment anxiety were associated with less sexual and romantic interest in the date. However, accurate perceptions of a date’s attachment anxiety were only associated with less interest when the date was high (versus low) in attachment anxiety.  Sociosexuality—the extent to which a person is open to and interested in short-term relationships—can influence dating preferences and here, people who were more comfortable with short-term relationships had less romantic and sexual interest when accurately perceiving their date’s attachment anxiety. In sum, in a speed-dating context, people accurately perceived a date’s attachment anxiety and these perceptions are associated with romantic and sexual interest, especially for daters more interested in casual relationships. The findings have implications for understanding how perceptions of a potential partner’s traits can influence dating decisions."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-all_day: false
+date: "Oct 15, 2021"
+date_end: ""
+all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021"
 
 authors: []
 tags: []
