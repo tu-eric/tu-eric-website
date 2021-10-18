@@ -5,7 +5,7 @@
 
 title: Eric Tu # Website name
 baseurl: 'https://erictu.netlify.app/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© 2021 Eric Tu' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
