@@ -47,7 +47,7 @@ main_menu:
 
 # Localization
 
-date_format: 'Oct 16, 2021'
+date_format: 'Jan 2, 2006'
 time_format: '6:00 PM'
 address_format: en-us
 
@@ -90,7 +90,7 @@ avatar:
   gravatar: false
   shape: circle
 publications:
-  date_format: October 2021
+  date_format: January 2006
   citation_style: apa
 projects:
   post_view: 2
